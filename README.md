@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there,  I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fjdurlop)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fjdurlop.fjdurlop)
 
 <!--
 **fjdurlop/fjdurlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

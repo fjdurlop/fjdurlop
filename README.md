@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjdurlop&show_icons=true&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjdurlop&layout=compact&theme=blue-green"/>
 </p>

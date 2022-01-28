@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjdurlop&show_icons=true&theme=gradient" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gradient"/>
-  
-  https://github-readme-stats.vercel.app/api/top-langs/?username=fjdurlop&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8
-</p>
-<p>
-![fjdurlop's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjdurlop&show_icons=true&theme=radical)  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjdurlop&show_icons=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green"/>
 </p>

@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 -->
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjdurlop&show_icons=true&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjdurlop&layout=compact&theme=blue-green"/>
-</p>
+![](./profile-summary-card-output/github/0-profile-details.svg)
+![](./profile-summary-card-output/github/3-stats.svg) ![](./profile-summary-card-output/github/2-most-commit-language.svg)

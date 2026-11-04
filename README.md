@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 📈 **My GitHub Stats:**
 
 ![](./profile-summary-card-output/github/0-profile-details.svg)
-![](./profile-summary-card-output/github/3-stats.svg) ![](./profile-summary-card-output/github/2-most-commit-language.svg)

@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: write # lets the action commit the generated SVGs
     steps:
+      - uses: actions/checkout@v4 # the action commits into this checkout
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
